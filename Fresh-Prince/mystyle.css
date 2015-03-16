@@ -1,0 +1,16 @@
+h1 {
+	color: red;
+}
+body {
+	color: blue;
+}
+body {
+    background-color: cyan;
+}
+
+h1 {
+    background-color: #00ff00;
+}
+
+p {
+    background-color: rgb(255,0,255);
